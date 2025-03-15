@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him (but you can just call me the "Automation Guru").
 - ⚡ Fun fact: I love tiling window managers so much, I sometimes dream about them.
 
+Chek my CTFD platform http://kelaeepaket.ru:1111
 <!---
 paket16/paket16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
